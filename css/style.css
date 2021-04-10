@@ -336,6 +336,7 @@ footer .row .col-30:nth-child(3) p{
     }
     footer .row .col-30{
         padding-left: 0;
+        width: 100%;
     }
 
     footer{
@@ -344,14 +345,19 @@ footer .row .col-30:nth-child(3) p{
 
     footer .row .col-30:nth-child(1) ul{
         width: 70%;
-        margin-left: 10%;
+        margin-left: 15%;
     }
     footer .row .col-30:nth-child(2) ul{
         width: 70%;
-        margin-left: 10%;
+        margin-left: 15%;
      }
      footer .row .col-30:nth-child(3) p{
          width: 70%;
-         margin-left: 10%;
+         margin-left: 15%;
+     }
+
+     footer .row .col-30:nth-child(3) iframe{
+         width: 300px;
+
      }
 }
